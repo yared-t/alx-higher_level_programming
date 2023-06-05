@@ -3,8 +3,8 @@
 #include "lists.h"
 
 /**
- * print_listint - prints all elements of a listint_t list
- * @h: pointer to head of list
+ * print_listint - program used to ptint
+ * @h: used to store
  * Return: number of nodes
  */
 size_t print_listint(const listint_t *h)
